@@ -1,6 +1,9 @@
 # MonteCarloMod
 
-## Background
+# Notes re: building predictive model for stock price
+- assumption: ex. is similar to stock price?!
+
+## Background 
 - formula that model random movment
 - "Brownian Movement"
 
